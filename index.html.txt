@@ -14,7 +14,7 @@
     }
     body {
       font-family: 'Montserrat', sans-serif;
-      background: url('file:///C:/Users/oboualam/Downloads/background.png') no-repeat center center fixed;
+      background: url('file:///C:/Users/hp/Downloads/background.png') no-repeat center center fixed;
       background-size: cover;
       color: #ffffff;
     }
@@ -220,7 +220,7 @@
       background-color: #004c00;
     }
     .last-section {
-      background: url('file:///C:/Users/oboualam/Downloads/grass.png') no-repeat center center fixed;
+      background: url('file:///C:/Users/hp/Downloads/grass.png') no-repeat center center fixed;
       background-size: cover;
       padding: 100px 50px;
       color: #ffffff;
@@ -267,7 +267,7 @@
 <div class="container">
 <!-- Logo -->
 <div class="logo">
-<img src="file:///C:/Users/oboualam/Downloads/logo.png" alt="Golf Energies Logo">
+<img src="file:///C:/Users/hp/Downloads/logo.png" alt="Golf Energies Logo">
 </div>
 <!-- Navbar -->
 <div class="navbar">
@@ -290,7 +290,7 @@
 
 <!-- New Section -->
 <div class="section">
-  <img src="file:///C:/Users/oboualam/Downloads/golf.jpg" alt="Golf Image">
+  <img src="file:///C:/Users/hp/Downloads/golf.jpg" alt="Golf Image">
   <div class="text">
     <h2>Golf Énergies</h2>
     <h3>PARCOURS DE QUALITÉ, OBJECTIFS DURABLES</h3>
@@ -323,7 +323,7 @@
     <a href="#">Inscrivez-vous dès maintenant</a>
 </div>
   </div>
-  <img src="file:///C:/Users/oboualam/Downloads/mariveau.jpg" alt="Golf Image">
+  <img src="file:///C:/Users/hp/Downloads/mariveau.jpg" alt="Golf Image">
 </div>
 
 <!-- Last Section -->
